@@ -279,7 +279,7 @@ nav .inner {{
   height: 60px;
 }}
 nav .logo {{
-  font-weight: 800; font-size: 1.15rem;
+  font-weight: 799; font-size: 1.15rem;
   background: linear-gradient(135deg, var(--accent), var(--accent2));
   -webkit-background-clip: text; -webkit-text-fill-color: transparent;
 }}
